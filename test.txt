@@ -1,4 +1,0 @@
-this is a test file
-add some file 
-test git diff
-# test line
