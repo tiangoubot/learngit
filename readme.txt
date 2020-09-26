@@ -6,3 +6,4 @@ Linus is god
 add app.txt file
 add google.txt file
 test git diff
+add version 1.0
